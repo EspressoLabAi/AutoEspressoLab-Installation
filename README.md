@@ -4,6 +4,11 @@
 
 EspressoLab AI Tool leverages GPT-4 to generate comprehensive UI tests automatically. Our tool analyzes device screenshots and creates detailed UI test cases, eliminating the need for manual test writing. Say goodbye to the tedious task of finding element IDs. Our AI tool seamlessly identifies and integrates element IDs into your test cases, streamlining your QA process. Easily export your tests in Espresso or Compose formats. Our tool provides ready-to-copy test cases, including custom builders, ensuring smooth integration into your codebase.
 
+## Demonstration
+<div align="center">
+  <img src="videos/intro.gif" alt="EspressoLab AI Tool Demo" width="800">
+</div>
+
 ## Target Audience
 
 - 👩‍💻 Android QA Engineers
