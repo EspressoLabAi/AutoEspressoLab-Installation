@@ -31,6 +31,10 @@ EspressoLab AI Tool leverages GPT-4 to generate comprehensive UI tests automatic
 
    ![IntelliJ Plugin Generate Screen Screenshot](images/generate_screen.png)
 
+4. **Final Output**:
+   - 🎉 After generating, you will see the final output as shown below.
+
+   ![Final Output Screenshot](images/final_result.png)
 
 ## Features
 
