@@ -22,10 +22,15 @@ EspressoLab AI Tool leverages GPT-4 to generate comprehensive UI tests automatic
    - 🗂️ Fill in the SDK path and click **Update**.
    - 💡 Note: You can use the tool for free, and you don't have to complete any registration steps.
 
+   ![IntelliJ Plugin Settings Screenshot](images/settings.png)
+
 3. **Configure UI Elements**:
    - 📝 Go to the **UiElements** tab.
    - 🖥️ Fill in the context about the screen to help us understand your screen logic.
    - 📱 Ensure the device is on and you are opening the screen you want to test.
+
+   ![IntelliJ Plugin Generate Screen Screenshot](images/generate_screen.png)
+
 
 ## Features
 
